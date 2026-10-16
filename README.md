@@ -1,32 +1,129 @@
-# 💫 About Me:
-🔭 I'm currently working on a full-stack web project and practising CP<br>👯 I'm looking to collaborate on competitive programming practice teams and open-source web projects<br>🤝 I'm looking for help with system design and backend development<br>🌱 I'm currently learning full-stack web development and advanced DSA (graphs, DP)<br>💬 Ask me about competitive programming, C++, Codeforces and LeetCode
+<h1 align="center">Hi, I'm Arnav Goel 👋</h1>
 
-<!-- Snake Game Repo View -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Turning+ideas+into+interactive+web+apps;Solving+cubes+and+code+problems;Codeforces+Pupil+%7C+400%2B+LeetCode;Always+shipping%2C+always+learning" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arn4v_001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavgoel001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arnavgoel5995@gmail.com) 
+# 👨‍💻 About Me
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=gitarnavgoel&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=gitarnavgoel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=gitarnavgoel&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gitarnavgoel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gitarnavgoel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🎓 B.Tech in **Computer Science & Engineering** at **MNIT Jaipur** (2025 – 2029)
+- ⚔️ Into **Competitive Programming** and **Data Structures & Algorithms**
+- 🌐 **Full-stack developer** at heart: I build interactive, browser-first apps with **JavaScript**, **Three.js** and the modern web stack
+- 🧑‍🏫 Executive at **QuantCode Club**, helping build a contest-driven coding culture on campus
 
 ---
-[![](https://komarev.com/ghpvc/?username=gitarnavgoel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📌 Quick Facts
+
+- 🎓 **MNIT Jaipur**, CSE
+- 🏆 **ICPC Amritapuri Preliminary:** Institute Rank 1
+- ⚡ **Codeforces:** Pupil (max rating 1351), 200+ problems solved
+- 💻 **LeetCode:** 400+ problems solved, 50-Day and 100-Day badges
+- 🤝 Always happy to collaborate on web projects and CP practice
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,threejs,git,github,linux,vscode&perline=9" />
+</p>
+
+---
+
+# 🚀 Featured Project
+
+## 🧊 Rubik's Cube Solver
+
+An interactive **3D Rubik's Cube solver** that scans your real cube through the webcam and shows the solution step by step.
+
+[🔴 Live Demo](https://gitarnavgoel.github.io/rubiks-solver/) • [📂 Source Code](https://github.com/gitarnavgoel/rubiks-solver)
+
+**Tech Stack**
+
+`HTML5` • `CSS3` • `JavaScript (ES6)` • `Three.js` • `cubejs` • `Web Workers`
+
+**Highlights**
+
+- 📷 Webcam scanner with automatic mirror correction
+- 🎨 Interactive 2D editor to fix scanned colors
+- ✅ Piece validation rejects impossible cube states
+- 🧠 Kociemba solver runs in a Web Worker, so the browser never freezes
+- 🎬 3D step-by-step solution animation with speed controls
+
+---
+
+# 🌟 Leadership & Community
+
+## QuantCode Club, MNIT Jaipur
+
+- 🎯 Executive in the **Algorithm Design & ML wing**
+- 🧩 Lead peer-learning sessions on competitive programming and C++
+- 🤝 Help foster a contest-driven coding culture on campus
+
+---
+
+# 🐍 Contribution Journey
+
+<p align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/gitarnavgoel/gitarnavgoel/output/github-contribution-grid-snake-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/gitarnavgoel/gitarnavgoel/output/github-contribution-grid-snake.svg">
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/gitarnavgoel/gitarnavgoel/output/github-contribution-grid-snake-dark.svg">
+</picture>
+</p>
+
+---
+
+# 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gitarnavgoel&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitarnavgoel&layout=compact&theme=github_dark&hide_border=true" height="160" />
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/gitarnavgoel">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/arnavgoel001">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/Arnav_001">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/gambler_/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:arnavgoel5995@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for stopping by! Feel free to explore my repositories or reach out to collaborate.
+</p>
