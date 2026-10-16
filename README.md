@@ -1,6 +1,11 @@
 # 💫 About Me:
 🔭 I'm currently working on a full-stack web project and practising CP<br>👯 I'm looking to collaborate on competitive programming practice teams and open-source web projects<br>🤝 I'm looking for help with system design and backend development<br>🌱 I'm currently learning full-stack web development and advanced DSA (graphs, DP)<br>💬 Ask me about competitive programming, C++, Codeforces and LeetCode
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arn4v_001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavgoel001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arnavgoel5995@gmail.com) 
